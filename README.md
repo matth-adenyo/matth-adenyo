@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi! I'm Matthew Adenyo </h1>
+<h1 align="center"> 👋 Hi! I'm Matthew Adenyo! </h1>
 
 
 ## You're Welcome to My Data Science Playground! 🚀
@@ -7,10 +7,10 @@ I'm a passionate data science enthusiast diving deep into the world of data and 
 
 ## About Me
 
-- 🎓 I'm a Mathematics graduate with deep understanding of mathematical/statistical concepts
+- 🎓 I'm a Mathematics graduate with a deep understanding of mathematical/statistical concepts
 - 👀 I’m interested in everything data (Data Science, Data Analysis, Health Data, etc)
 - 🌱 I'm always learning and exploring new techniques and tools in the field of data science
-- 💼 I'm looking forward to collaborate on data science/statistics/mathematics related projects
+- 💼 I'm looking to collaborate on data science/statistics/mathematics-related projects
 
 
 ## Let's Connect
