@@ -11,6 +11,7 @@ I'm a passionate data science enthusiast diving deep into the world of data and 
 - 👀 I’m interested in everything data (Data Science, Data Analysis, Health Data, etc)
 - 🌱 I'm always learning and exploring new techniques and tools in the field of data science
 - 💼 I'm looking to collaborate on data science/statistics/mathematics-related projects
+- 📚 I make tutorial videos on [YouTube](https://www.youtube.com/@MatthAdenyo)
 
 
 ## Let's Connect
