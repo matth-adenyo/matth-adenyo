@@ -3,11 +3,12 @@
 
 ## You're Welcome to My Data Science Playground! 🚀
 
-I'm a passionate data science enthusiast diving deep into the world of data and extracting insights that drive decision-making. This is my space where I share my research, projects and insights.
+I'm a data analyst and a data science enthusiast diving deep into the world of data and extracting insights that drive decision-making. This is my space where I share my research, projects and insights.
 
 ## About Me
 
 - 🎓 I'm a Mathematics graduate with a deep understanding of mathematical/statistical concepts
+- 📜 I'm a certified DataCamp [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0015087330463)
 - 👀 I’m interested in everything data (Data Science, Data Analysis, Health Data, etc)
 - 🌱 I'm always learning and exploring new techniques and tools in the field of data science
 - 💼 I'm looking to collaborate on data science/statistics/mathematics-related projects
