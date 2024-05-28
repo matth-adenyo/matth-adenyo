@@ -13,6 +13,7 @@ I'm a data analyst and a data science enthusiast diving deep into the world of d
 - 🌱 I'm always learning and exploring new techniques and tools in the field of data science
 - 💼 I'm looking to collaborate on data science/statistics/mathematics-related projects
 - 📚 I make tutorial videos on [YouTube](https://www.youtube.com/@MatthAdenyo)
+- 👀 Check out my portfolios [here](https://matth-adenyo.github.io/) & [here](https://www.datacamp.com/portfolio/Matth-Adenyo)
 
 
 ## Let's Connect
